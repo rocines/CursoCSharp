@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\bin\Debug\net6.0\UOJ_Ex06.exe
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\bin\Debug\net6.0\UOJ_Ex06.deps.json
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\bin\Debug\net6.0\UOJ_Ex06.runtimeconfig.json
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\bin\Debug\net6.0\UOJ_Ex06.dll
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\bin\Debug\net6.0\UOJ_Ex06.pdb
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.dll
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\refint\UOJ_Ex06.dll
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.pdb
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\UOJ_Ex06.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\UOJ_Ex06\UOJ_Ex06\obj\Debug\net6.0\ref\UOJ_Ex06.dll

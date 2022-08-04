@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll

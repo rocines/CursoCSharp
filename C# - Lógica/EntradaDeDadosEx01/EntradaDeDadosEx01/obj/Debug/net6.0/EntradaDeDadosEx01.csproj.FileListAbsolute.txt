@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\bin\Debug\net6.0\EntradaDeDadosEx01.exe
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\bin\Debug\net6.0\EntradaDeDadosEx01.deps.json
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\bin\Debug\net6.0\EntradaDeDadosEx01.runtimeconfig.json
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\bin\Debug\net6.0\EntradaDeDadosEx01.dll
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\bin\Debug\net6.0\EntradaDeDadosEx01.pdb
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.dll
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\refint\EntradaDeDadosEx01.dll
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.pdb
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\EntradaDeDadosEx01.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\EntradaDeDadosEx01\EntradaDeDadosEx01\obj\Debug\net6.0\ref\EntradaDeDadosEx01.dll

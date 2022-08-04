@@ -1,0 +1,15 @@
+C:\CursoUdemy\OO\Construtores\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\CursoUdemy\OO\Construtores\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\CursoUdemy\OO\Construtores\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\CursoUdemy\OO\Construtores\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\CursoUdemy\OO\Construtores\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+C:\CursoUdemy\OO\Construtores\Construtores\obj\Debug\net6.0\ref\Construtores.dll

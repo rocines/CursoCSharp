@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntradaDeDadosEx01/1.0.0": {
+        "runtime": {
+          "EntradaDeDadosEx01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntradaDeDadosEx01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\bin\Debug\net6.0\SintaxeCumulativaEx01.exe
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\bin\Debug\net6.0\SintaxeCumulativaEx01.deps.json
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\bin\Debug\net6.0\SintaxeCumulativaEx01.runtimeconfig.json
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\bin\Debug\net6.0\SintaxeCumulativaEx01.dll
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\bin\Debug\net6.0\SintaxeCumulativaEx01.pdb
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.dll
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\refint\SintaxeCumulativaEx01.dll
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.pdb
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\SintaxeCumulativaEx01.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\SintaxeCumulativaEx01\SintaxeCumulativaEx01\obj\Debug\net6.0\ref\SintaxeCumulativaEx01.dll

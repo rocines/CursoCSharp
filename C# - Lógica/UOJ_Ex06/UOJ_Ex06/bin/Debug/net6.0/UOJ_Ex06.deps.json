@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UOJ_Ex06/1.0.0": {
+        "runtime": {
+          "UOJ_Ex06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UOJ_Ex06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

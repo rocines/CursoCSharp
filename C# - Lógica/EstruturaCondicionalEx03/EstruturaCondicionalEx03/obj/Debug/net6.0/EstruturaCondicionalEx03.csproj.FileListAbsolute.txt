@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\bin\Debug\net6.0\EstruturaCondicionalEx03.exe
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\bin\Debug\net6.0\EstruturaCondicionalEx03.deps.json
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\bin\Debug\net6.0\EstruturaCondicionalEx03.runtimeconfig.json
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\bin\Debug\net6.0\EstruturaCondicionalEx03.dll
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\bin\Debug\net6.0\EstruturaCondicionalEx03.pdb
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.dll
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\refint\EstruturaCondicionalEx03.dll
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.pdb
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\EstruturaCondicionalEx03.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\EstruturaCondicionalEx03\EstruturaCondicionalEx03\obj\Debug\net6.0\ref\EstruturaCondicionalEx03.dll

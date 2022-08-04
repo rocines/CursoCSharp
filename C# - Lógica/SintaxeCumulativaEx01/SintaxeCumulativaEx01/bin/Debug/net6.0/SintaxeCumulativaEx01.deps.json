@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SintaxeCumulativaEx01/1.0.0": {
+        "runtime": {
+          "SintaxeCumulativaEx01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SintaxeCumulativaEx01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

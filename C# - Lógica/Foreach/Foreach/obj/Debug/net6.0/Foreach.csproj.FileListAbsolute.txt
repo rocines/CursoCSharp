@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\Foreach\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\CursoUdemy\Lógica\Foreach\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\CursoUdemy\Lógica\Foreach\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\CursoUdemy\Lógica\Foreach\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\CursoUdemy\Lógica\Foreach\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\Foreach\Foreach\obj\Debug\net6.0\ref\Foreach.dll

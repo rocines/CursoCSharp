@@ -1,0 +1,15 @@
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\bin\Debug\net6.0\PrimeirosExercicios_Ex02.exe
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\bin\Debug\net6.0\PrimeirosExercicios_Ex02.deps.json
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\bin\Debug\net6.0\PrimeirosExercicios_Ex02.runtimeconfig.json
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\bin\Debug\net6.0\PrimeirosExercicios_Ex02.dll
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\bin\Debug\net6.0\PrimeirosExercicios_Ex02.pdb
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.csproj.AssemblyReference.cache
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.AssemblyInfoInputs.cache
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.AssemblyInfo.cs
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.dll
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\refint\PrimeirosExercicios_Ex02.dll
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.pdb
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\PrimeirosExercicios_Ex02.genruntimeconfig.cache
+C:\CursoUdemy\OO\PrimeirosExercicios_Ex02\PrimeirosExercicios_Ex02\obj\Debug\net6.0\ref\PrimeirosExercicios_Ex02.dll

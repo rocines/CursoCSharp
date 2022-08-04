@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\bin\Debug\net6.0\Vetores_Ex6.exe
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\bin\Debug\net6.0\Vetores_Ex6.deps.json
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\bin\Debug\net6.0\Vetores_Ex6.runtimeconfig.json
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\bin\Debug\net6.0\Vetores_Ex6.dll
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\bin\Debug\net6.0\Vetores_Ex6.pdb
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.dll
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\refint\Vetores_Ex6.dll
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.pdb
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\Vetores_Ex6.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\Vetores_Ex6\Vetores_Ex6\obj\Debug\net6.0\ref\Vetores_Ex6.dll

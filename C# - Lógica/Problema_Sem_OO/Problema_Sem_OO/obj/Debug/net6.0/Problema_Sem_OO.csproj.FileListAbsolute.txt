@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\bin\Debug\net6.0\Problema_Sem_OO.exe
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\bin\Debug\net6.0\Problema_Sem_OO.deps.json
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\bin\Debug\net6.0\Problema_Sem_OO.runtimeconfig.json
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\bin\Debug\net6.0\Problema_Sem_OO.dll
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\bin\Debug\net6.0\Problema_Sem_OO.pdb
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.dll
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\refint\Problema_Sem_OO.dll
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.pdb
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\Problema_Sem_OO.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\Problema_Sem_OO\Problema_Sem_OO\obj\Debug\net6.0\ref\Problema_Sem_OO.dll

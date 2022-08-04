@@ -1,0 +1,15 @@
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\bin\Debug\net6.0\EstruturaPara.exe
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\bin\Debug\net6.0\EstruturaPara.deps.json
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\bin\Debug\net6.0\EstruturaPara.runtimeconfig.json
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\bin\Debug\net6.0\EstruturaPara.dll
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\bin\Debug\net6.0\EstruturaPara.pdb
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.csproj.AssemblyReference.cache
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.AssemblyInfoInputs.cache
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.AssemblyInfo.cs
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.dll
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\refint\EstruturaPara.dll
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.pdb
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\EstruturaPara.genruntimeconfig.cache
+C:\CursoUdemy\Lógica\EstruturaPara\EstruturaPara\obj\Debug\net6.0\ref\EstruturaPara.dll

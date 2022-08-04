@@ -1,0 +1,15 @@
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\bin\Debug\net6.0\OO_SegundoExemplo.exe
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\bin\Debug\net6.0\OO_SegundoExemplo.deps.json
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\bin\Debug\net6.0\OO_SegundoExemplo.runtimeconfig.json
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\bin\Debug\net6.0\OO_SegundoExemplo.dll
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\bin\Debug\net6.0\OO_SegundoExemplo.pdb
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.csproj.AssemblyReference.cache
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.AssemblyInfoInputs.cache
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.AssemblyInfo.cs
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.dll
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\refint\OO_SegundoExemplo.dll
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.pdb
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\OO_SegundoExemplo.genruntimeconfig.cache
+C:\CursoUdemy\OO\OO_SegundoExemplo\OO_SegundoExemplo\obj\Debug\net6.0\ref\OO_SegundoExemplo.dll
